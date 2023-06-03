@@ -11,3 +11,5 @@ Pop-up questions regarding password criteria are as follows:
 5. Include symbols?
 
 After completing the pop-up prompts, a password will be generated based on the given criteria and will appear where the placeholder text reads "Your Secure Password" 
+
+Deployed URL: http://127.0.0.1:5500/Develop/index.html
